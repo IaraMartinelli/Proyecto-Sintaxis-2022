@@ -1,0 +1,19 @@
+| Factorial |
+Comienzo
+Define: i,j,n.
+i<<1.
+j<<1.
+"ingrese el numero deseado: ", ingresar (n).
+Si n=0 entonces | Imprimir ("El número es 0"). |
+Sino
+| Mientras i<=n hacer
+  |
+    j<<i*j.
+    i<<i+1.
+  
+ |.
+ Imprimir ("El número es ").
+    Imprimir(j).
+|.
+   
+Final.

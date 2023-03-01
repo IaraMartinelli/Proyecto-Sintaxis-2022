@@ -1,0 +1,32 @@
+|Sumatoria|
+
+Comienzo
+
+Define: i,j.
+"Ingrese el primer número:", Ingresar(i).
+"Ingrese el segundo número:", Ingresar(j).
+
+Define: w,k.
+w<<0.
+
+Si i<j entonces
+| 
+
+k<<i.
+Mientras k<=j hacer
+| w<<w+k.
+  k<<k+1. |
+| 
+
+Sino
+| 
+k<<j.
+Mientras k<=i hacer
+| w<<w+k.
+  k<<k+1. |. 
+|.
+
+Imprimir("La sumatoria es igual a: ").
+Imprimir(w).
+
+Final.     

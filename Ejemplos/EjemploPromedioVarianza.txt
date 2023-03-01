@@ -1,0 +1,30 @@
+|promediovarianza|
+comienzo
+
+define: n,i,k,h,j,prom.
+"ingresar la cantidad de valores:", ingresar(n).
+h<<0.
+i<<1.
+mientras i<=n hacer
+| "ingresar valor: ", ingresar(k).
+  i<<i+1.
+  h<<h+k. |. 
+prom<<h/n.
+
+imprimir ("el promedio es ").
+imprimir(prom).
+
+i<<1.
+define: l,varianza.
+mientras i<=n hacer
+| "ingresar valor:", ingresar(k).
+  j<<k-prom.
+  l<<l+j^2. 
+   i<<i+1. |.
+varianza<<(l/(n-1)).
+
+imprimir ("la varianza es: ").
+imprimir (varianza).
+
+final.
+ 

@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units Count="17">
+      <Unit0>
+        <Filename Value="Programa.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="34" Y="4"/>
+        <UsageCount Value="102"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="base.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Base"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="42"/>
+        <CursorPos X="20" Y="78"/>
+        <UsageCount Value="102"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="analizador_lexico.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Analizador_lexico"/>
+        <EditorIndex Value="6"/>
+        <CursorPos X="60"/>
+        <UsageCount Value="102"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="u_analizador_sintactico.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="u_Analizador_sintactico"/>
+        <EditorIndex Value="7"/>
+        <CursorPos X="58" Y="3"/>
+        <UsageCount Value="102"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="lista.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Lista"/>
+        <EditorIndex Value="4"/>
+        <CursorPos X="40" Y="7"/>
+        <UsageCount Value="102"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="pila.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Pila"/>
+        <EditorIndex Value="8"/>
+        <CursorPos X="40" Y="34"/>
+        <UsageCount Value="102"/>
+        <Loaded Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="arbol.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="52" Y="19"/>
+        <UsageCount Value="102"/>
+        <Loaded Value="True"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="lista_array.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="60" Y="9"/>
+        <UsageCount Value="93"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="listasp.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="41" Y="44"/>
+        <UsageCount Value="88"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="unit1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Unit1"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="42" Y="7"/>
+        <UsageCount Value="81"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="u_evaluador.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="2" Y="26"/>
+        <UsageCount Value="68"/>
+        <Loaded Value="True"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="principal.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="31"/>
+        <CursorPos X="45" Y="49"/>
+        <UsageCount Value="61"/>
+        <Loaded Value="True"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="C:\Downloads\TPI-Ultima version\TPI-Ultima version\TPI-final\TPI-Ultima version\TPI-final\TPI-Ultima version\analizador_sintactico.pas"/>
+        <UnitName Value="Analizador_sintactico"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="79"/>
+        <CursorPos X="68" Y="47"/>
+        <UsageCount Value="12"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="C:\Downloads\TPI-Ultima version\TPI-Ultima version\TPI-final\TPI-Ultima version\TPI-final\TPI-Ultima version\procedimientos_arboles.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="67" Y="7"/>
+        <UsageCount Value="12"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="C:\Downloads\TPI-Ultima version\TPI-Ultima version\TPI-final\TPI-Ultima version\TPI-final\TPI-Ultima version\u_arbol.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="59"/>
+        <CursorPos X="70" Y="79"/>
+        <UsageCount Value="12"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="C:\Downloads\TPI-Ultima version\TPI-Ultima version\TPI-final\TPI-Ultima version\TPI-final\TPI-Ultima version\parcial_unit_pila_tda.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="49"/>
+        <CursorPos X="57" Y="65"/>
+        <UsageCount Value="11"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="C:\Downloads\TPI-Ultima version\TPI-Ultima version\TPI-final\TPI-Ultima version\TPI-final\TPI-Ultima version\evaluador.pas"/>
+        <UnitName Value="Evaluador"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="7"/>
+      </Unit16>
+    </Units>
+    <JumpHistory Count="29" HistoryIndex="28">
+      <Position1>
+        <Filename Value="u_evaluador.pas"/>
+        <Caret Line="353" TopLine="346"/>
+      </Position1>
+      <Position2>
+        <Filename Value="u_evaluador.pas"/>
+        <Caret Line="354" TopLine="346"/>
+      </Position2>
+      <Position3>
+        <Filename Value="u_evaluador.pas"/>
+        <Caret Line="137" TopLine="123"/>
+      </Position3>
+      <Position4>
+        <Filename Value="u_evaluador.pas"/>
+        <Caret Line="139" TopLine="123"/>
+      </Position4>
+      <Position5>
+        <Filename Value="u_evaluador.pas"/>
+        <Caret Line="125" TopLine="120"/>
+      </Position5>
+      <Position6>
+        <Filename Value="u_evaluador.pas"/>
+        <Caret Line="127" TopLine="120"/>
+      </Position6>
+      <Position7>
+        <Filename Value="u_evaluador.pas"/>
+        <Caret Line="378" TopLine="364"/>
+      </Position7>
+      <Position8>
+        <Filename Value="u_evaluador.pas"/>
+        <Caret Line="379" TopLine="364"/>
+      </Position8>
+      <Position9>
+        <Filename Value="u_evaluador.pas"/>
+        <Caret Line="381" TopLine="364"/>
+      </Position9>
+      <Position10>
+        <Filename Value="u_evaluador.pas"/>
+        <Caret Line="137" TopLine="123"/>
+      </Position10>
+      <Position11>
+        <Filename Value="u_evaluador.pas"/>
+        <Caret Line="139" TopLine="123"/>
+      </Position11>
+      <Position12>
+        <Filename Value="u_evaluador.pas"/>
+        <Caret Line="125" TopLine="120"/>
+      </Position12>
+      <Position13>
+        <Filename Value="u_evaluador.pas"/>
+        <Caret Line="126" TopLine="120"/>
+      </Position13>
+      <Position14>
+        <Filename Value="u_evaluador.pas"/>
+        <Caret Line="268" TopLine="254"/>
+      </Position14>
+      <Position15>
+        <Filename Value="u_evaluador.pas"/>
+        <Caret Line="269" TopLine="254"/>
+      </Position15>
+      <Position16>
+        <Filename Value="u_evaluador.pas"/>
+        <Caret Line="81" TopLine="67"/>
+      </Position16>
+      <Position17>
+        <Filename Value="u_evaluador.pas"/>
+        <Caret Line="82" TopLine="67"/>
+      </Position17>
+      <Position18>
+        <Filename Value="u_evaluador.pas"/>
+        <Caret Line="83" TopLine="67"/>
+      </Position18>
+      <Position19>
+        <Filename Value="u_evaluador.pas"/>
+        <Caret Line="81" TopLine="67"/>
+      </Position19>
+      <Position20>
+        <Filename Value="u_evaluador.pas"/>
+        <Caret Line="86" TopLine="67"/>
+      </Position20>
+      <Position21>
+        <Filename Value="u_evaluador.pas"/>
+        <Caret Line="270" TopLine="256"/>
+      </Position21>
+      <Position22>
+        <Filename Value="u_evaluador.pas"/>
+        <Caret Line="133" TopLine="119"/>
+      </Position22>
+      <Position23>
+        <Filename Value="u_evaluador.pas"/>
+        <Caret Line="140" TopLine="119"/>
+      </Position23>
+      <Position24>
+        <Filename Value="u_evaluador.pas"/>
+        <Caret Line="142" TopLine="119"/>
+      </Position24>
+      <Position25>
+        <Filename Value="u_evaluador.pas"/>
+        <Caret Line="382" TopLine="368"/>
+      </Position25>
+      <Position26>
+        <Filename Value="analizador_lexico.pas"/>
+        <Caret Line="236" Column="81" TopLine="225"/>
+      </Position26>
+      <Position27>
+        <Filename Value="analizador_lexico.pas"/>
+        <Caret Line="443" Column="65" TopLine="424"/>
+      </Position27>
+      <Position28>
+        <Filename Value="principal.pas"/>
+        <Caret Line="2"/>
+      </Position28>
+      <Position29>
+        <Filename Value="u_analizador_sintactico.pas"/>
+        <Caret Line="3" Column="58"/>
+      </Position29>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
